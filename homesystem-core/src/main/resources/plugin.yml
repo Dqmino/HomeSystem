@@ -1,0 +1,11 @@
+name: homesystem-core
+version: '1.0'
+main: codes.domino.homesystemcore.HomeSystemPlugin
+api-version: '1.20'
+authors: [ domino ]
+website: https://domino.codes
+commands:
+  home:
+    description: Teleport to home
+  sethome:
+    description: Set your home that you can teleport to
